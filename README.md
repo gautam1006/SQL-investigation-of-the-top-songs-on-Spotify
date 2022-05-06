@@ -2,4 +2,4 @@
 <br />
 Now we have the table TopSongs in our SQL database, to see what it looks like use the code below:
 <br />
-![alt text](snapshots/1.png)
+![alt](snapshots/1.png)
