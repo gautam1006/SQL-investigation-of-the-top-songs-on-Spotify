@@ -23,4 +23,14 @@ We can see that Ed Sheeran is the only artist who has 4 songs in the top 50 song
 If you went through the data table a bit you may have noticed that some songs included the name of a featured artist within the TrackName, the code below will show how many songs in the top 50 Spotify songs have a featured artist on the track.
 <br />
 <br />
-![alt](snapshots/code.png)
+![alt](snapshots/c2.png)
+<br />
+<br />
+![alt](snapshots/4.png)
+<br />
+<br />
+13 of the top Spotify songs have featured artists, that is 26% which is quite a lot. Perhaps having a featured artist on a track helps a song end up on the Spotify Top 50 songs.
+<br />
+<br />
+#Genre
+Next we will look at genre, the code below shows the genres that appear in the Spotify Top 50 songs.
