@@ -81,6 +81,16 @@ There were just four songs with ‘hip hop’ in the genre but this is still 8%.
 <br />
 <br />
 ![alt](snapshots/9.png)
+<br />
+<br />
+#Beats Per Minute
+Beats per minute may be an influencer to getting a song to be in Spotify’s top 50 songs. The below code will output the average beats per minute of the top 50 Spotify songs.
+<br />
+<br />
+![alt](snapshots/code7.png)
+<br />
+<br />
+![alt](snapshots/10.png)
 
 
 
