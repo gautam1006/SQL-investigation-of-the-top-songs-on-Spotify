@@ -34,3 +34,54 @@ If you went through the data table a bit you may have noticed that some songs in
 <br />
 #Genre
 Next we will look at genre, the code below shows the genres that appear in the Spotify Top 50 songs.
+![alt](snapshots/c3.png)
+<br />
+<br />
+![alt](snapshots/5.png)
+<br />
+<br />
+The top genre is dance pop, followed by pop and then latin. Looking at all the genres we see that there are multiple genres that include the word ‘pop’. The below code shows the number of songs that include the word ‘pop’ in their genre.
+<br />
+<br />
+![alt](snapshots/code1.png)
+<br />
+<br />
+![alt](snapshots/6.png)
+<br />
+<br />
+23 songs include the word ‘pop’. That means almost half the songs that are in the Spotify Top 50 songs are either a pop song or a variation of pop. Clearly pop songs do well on Spotify and may be a factor in being apart of the top 50 Spotify songs.
+<br />
+<br />
+Another word that is seen in multiple genres is the word ‘rap’. The code below shows the number of songs that include the word ‘rap’ in their genre.
+<br />
+<br />
+![alt](snapshots/code4.png)
+<br />
+<br />
+![alt](snapshots/code4.png)
+<br />
+<br />
+![alt](snapshots/7.png)
+<br />
+<br />
+There are 5 songs that are either a rap song or a variation of rap. This is 10 percent of the entire data set. Although it is not as high as the number of pop songs, rap songs also do well on Spotify.
+<br />
+<br />
+Another word that appeared in multiple genres was ‘hip hop’. The code below shows the number of songs that include ‘hip hop’ in their genre.
+![alt](snapshots/code5.png)
+<br />
+<br />
+![alt](snapshots/8.png)
+<br />
+<br />
+There were just four songs with ‘hip hop’ in the genre but this is still 8%. Another word that was included in four songs genre’s was ‘reggaeton’.
+<br />
+<br />
+![alt](snapshots/code6.png)
+<br />
+<br />
+![alt](snapshots/9.png)
+
+
+
+
