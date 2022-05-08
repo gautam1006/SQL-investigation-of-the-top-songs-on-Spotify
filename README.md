@@ -135,3 +135,9 @@ It looks like a lot of songs have an energy of within 10 of the average energy. 
 ![alt](snapshots/code14.png)
 <br />
 ![alt](snapshots/17.png)
+50% the songs have an energy score within 10 of the average, 64.06 and 34% of the songs have an energy score within 20 of the average. This may imply that having an energy score close to 64.08 may make a song more likely to be a top song on Spotify.
+<br />
+<br />
+Danceability
+Next, we will look at danceability. The code below shows the average danceability in the top 50 Spotify songs.
+![alt](snapshots/17.png)
