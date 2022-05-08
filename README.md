@@ -91,7 +91,25 @@ Beats per minute may be an influencer to getting a song to be in Spotify’s top
 <br />
 <br />
 ![alt](snapshots/10.png)
-
-
+<br />
+The average beats per minute is 120.06. The code below will show if a song is above the average, below the average, or the average beats per minute. Keep in mind, these songs are ordered by top spot. So the first song will be the number one top song on Spotify at the time this data set was created.
+<br />
+![alt](snapshots/code8.png)
+<br />
+![alt](snapshots/11.png)
+<br />
+<br />
+Half of the top ten songs are above the average beats per minute and the other half are below the average beats per minute. Next, we will look at how far away each songs beater per minute is from the average.
+![alt](snapshots/code8.png)
+<br />
+![alt](snapshots/12.png)
+<br />
+<br />
+This is interesting but a bit hard to read if we more interested in all the songs than in a specific song. The below code will show how many songs are within 10 beats per minute of the average, how many songs are within 20 beats per minute of the average, how many songs are within 30 beats per minute of the average, and how many songs are beats per minute is more than 30 from the average.
+<br />
+<br />
+![alt](snapshots/code9.png)
+<br />
+![alt](snapshots/13.png)
 
 
