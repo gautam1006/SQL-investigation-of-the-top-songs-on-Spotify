@@ -140,4 +140,9 @@ It looks like a lot of songs have an energy of within 10 of the average energy. 
 <br />
 Danceability
 Next, we will look at danceability. The code below shows the average danceability in the top 50 Spotify songs.
-![alt](snapshots/17.png)
+![alt](snapshots/c4.png)
+<br />
+![alt](snapshots/18.png)
+<br />
+The average danceability of songs in this data set is 71.38. The code below labels each song as to how close their danceability score is to the average.
+
