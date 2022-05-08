@@ -111,5 +111,21 @@ This is interesting but a bit hard to read if we more interested in all the song
 ![alt](snapshots/code9.png)
 <br />
 ![alt](snapshots/13.png)
-
+There is no obvious pattern here. Perhaps the beats per minute is not a big factor in being a top 50 Spotify song.
+<br />
+#Energy
+Next we will look at energy. The below code shows the average energy of all the songs in Spotify’s top 50 songs.
+![alt](snapshots/code10.png)
+<br />
+![alt](snapshots/14.png)
+<br />
+The average energy for the songs in Spotify’s top 50 songs is 64.06. The below code will label each song if it is above the average energy, below the average energy or equivalent to the average energy.
+![alt](snapshots/code11.png)
+<br />
+![alt](snapshots/15.png)
+<br />
+Of the top 10 songs, the energy level is almost half above the average energy and almost half below the average energy. Again we will label each song to see how close they are to the average energy.
+![alt](snapshots/code12.png)
+<br />
+![alt](snapshots/16.png)
 
