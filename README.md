@@ -150,5 +150,12 @@ The average danceability of songs in this data set is 71.38. The code below labe
 <br />
 ![alt](snapshots/code15.png)
 <br />
-![alt](snapshots/18.png)
+![alt](snapshots/19.png)
 <br />
+Like energy, we are seeing a lot of songs are within 10 of the average danceability score. To see the danceability stats for the whole data set, the code below can be used:
+<br />
+![alt](snapshots/code17.png)
+<br />
+![alt](snapshots/20.png)
+<br />
+68% of the songs in the dataset are within 10 points of the average danceability score for the whole table, 71.38. It would appear that having a song with a danceability score close to 71.38 would improve the chances of that song appearing in the Spotify top 50 songs.
