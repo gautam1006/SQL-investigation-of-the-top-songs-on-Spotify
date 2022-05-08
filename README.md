@@ -132,6 +132,6 @@ Of the top 10 songs, the energy level is almost half above the average energy an
 <br />
 It looks like a lot of songs have an energy of within 10 of the average energy. To see the energy stats for the whole data set, the code below can be used.
 <br />
-![alt](snapshots/14.png)
+![alt](snapshots/code14.png)
 <br />
 ![alt](snapshots/17.png)
