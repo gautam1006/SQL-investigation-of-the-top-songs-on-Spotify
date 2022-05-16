@@ -1,6 +1,5 @@
-#Using SQL to Investigate Spotify’s Top Songs:
-<br />
-<br />
+# Using SQL to Investigate Spotify’s Top Songs:
+
 This is an SQL investigation of the top songs on Spotify in August of 2019.
 <br />
 <br />
